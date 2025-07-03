@@ -172,8 +172,24 @@
     </main>
 
     <footer>
-        <p>Last updated: [July 2025]</p>
-    </footer>
+      <p>Last updated: July 2025</p>
+      <p>&copy; 2025 Kaveen Hiniduma</p>
+      <p>
+          <a href="https://github.com/yuhui-zh15/Minimal-Academic-Website" target="_blank" rel="noopener noreferrer">
+              Website template
+          </a>
+      </p>
+      <p>Visits: <span id="visit-count">loading...</span></p>
+  
+      <script>
+          fetch('https://api.countapi.xyz/hit/kaveenh.github.io/visits')
+            .then(res => res.json())
+            .then(data => {
+              document.getElementById('visit-count').innerText = data.value;
+            });
+      </script>
+  </footer>
+  
 
     <div id="imageModal" class="modal">
         <span class="modal-close" onclick="closeModal()">&times;</span>

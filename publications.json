@@ -1,0 +1,67 @@
+{
+  "publications": [
+    {
+      "title": "CADRE: Customizable Assurance of Data Readiness in Privacy-Preserving Federated Learning",
+      "authors": [
+        "Kaveen Hiniduma",
+        "Zilinghan Li",
+        "Aditya Sinha",
+        "Ravi Madduri",
+        "Suren Byna"
+      ],
+      "venue": "IEEE e-Science 2025",
+      "thumbnail": "images/thumbs/cadre.png",
+      "selected": 1,
+      "award": "",
+      "links": {
+        "pdf": "https://arxiv.org/pdf/2505.23849",
+        "code": "https://appfl.ai/en/latest/tutorials/examples_dr_integration.html"
+      }
+    },
+    {
+      "title": "Data Readiness for AI: A 360-Degree Survey",
+      "authors": [
+        "Kaveen Hiniduma",
+        "Suren Byna",
+        "Jean Luca Bez"
+      ],
+      "venue": "ACM Computing Surveys 2025",
+      "thumbnail": "images/thumbs/drai.png",
+      "selected": 1,
+      "award": "",
+      "links": {
+        "pdf": "https://arxiv.org/pdf/2404.05779"
+      }
+    },
+    {
+      "title": "AI Data Readiness Inspector (AIDRIN) for Quantitative Assessment of Data Readiness for AI",
+      "authors": [
+        "Kaveen Hiniduma",
+        "Suren Byna",
+        "Jean Luca Bez",
+        "Ravi Madduri"
+      ],
+      "venue": "SSDBM 2024",
+      "thumbnail": "images/thumbs/aidrin.png",
+      "selected": 1,
+      "award": "",
+      "links": {
+        "pdf": "https://arxiv.org/abs/2406.19256"
+      }
+    },
+    {
+      "title": "A Computer Vision Approach for Medical Report Identification and Management: Case Study-Full Blood Report Information Extraction-Sri Lanka",
+      "authors": [
+        "Kaveen Hiniduma",
+        "Rumali Perera"
+      ],
+      "venue": "ICMAS 2021",
+      "thumbnail": "",
+      "selected": 0,
+      "award": "",
+      "links": {
+        "pdf": "https://science.cmb.ac.lk/icmas2021/wp-content/uploads/2021/12/Conference-Proceedings-ICMAS-2021.pdf"
+      }
+    }
+  ]
+}

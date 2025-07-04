@@ -46,21 +46,8 @@
       "selected": 1,
       "award": "",
       "links": {
-        "pdf": "https://arxiv.org/abs/2406.19256"
-      }
-    },
-    {
-      "title": "A Computer Vision Approach for Medical Report Identification and Management: Case Study-Full Blood Report Information Extraction-Sri Lanka",
-      "authors": [
-        "Kaveen Hiniduma",
-        "Rumali Perera"
-      ],
-      "venue": "ICMAS 2021",
-      "thumbnail": "",
-      "selected": 0,
-      "award": "",
-      "links": {
-        "pdf": "https://science.cmb.ac.lk/icmas2021/wp-content/uploads/2021/12/Conference-Proceedings-ICMAS-2021.pdf"
+        "pdf": "https://arxiv.org/pdf/2406.19256",
+        "presentation": "https://sbyna.github.io/research/papers/2024/202407-SSDBM-AIDRIN.pdf"
       }
     }
   ]

@@ -158,6 +158,13 @@ function createPublicationElement(publication) {
       links.appendChild(codeLink);
     }
     
+    if (publication.links.poster) {
+      const posterLink = document.createElement('a');
+      posterLink.href = publication.links.poster;
+      posterLink.textContent = '[Poster]';
+      links.appendChild(posterLink);
+    }
+
     if (publication.links.project) {
       const projectLink = document.createElement('a');
       projectLink.href = publication.links.project;

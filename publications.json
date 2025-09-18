@@ -10,12 +10,13 @@
         "Suren Byna"
       ],
       "venue": "IEEE e-Science 2025",
-      "thumbnail": "images/thumbs/cadre.png",
+      "thumbnail": "static/images/thumbs/cadre.png",
       "selected": 1,
       "award": "",
       "links": {
         "pdf": "https://arxiv.org/pdf/2505.23849",
-        "code": "https://appfl.ai/en/latest/tutorials/examples_dr_integration.html"
+        "code": "https://appfl.ai/en/latest/tutorials/examples_dr_integration.html",
+        "presentation": "static/presentations/cadre_slides.pdf"
       }
     },
     {
@@ -28,7 +29,7 @@
         "Ravi Madduri"
       ],
       "venue": "SSDBM 2025 (Peer-reviewed Poster)",
-      "thumbnail": "images/thumbs/aidrin2.png",
+      "thumbnail": "static/images/thumbs/aidrin2.png",
       "selected": 1,
       "award": "",
       "links": {
@@ -45,7 +46,7 @@
         "Jean Luca Bez"
       ],
       "venue": "ACM Computing Surveys 2025",
-      "thumbnail": "images/thumbs/drai.png",
+      "thumbnail": "static/images/thumbs/drai.png",
       "selected": 1,
       "award": "",
       "links": {
@@ -61,7 +62,7 @@
         "Ravi Madduri"
       ],
       "venue": "SSDBM 2024",
-      "thumbnail": "images/thumbs/aidrin.png",
+      "thumbnail": "static/images/thumbs/aidrin.png",
       "selected": 1,
       "award": "",
       "links": {

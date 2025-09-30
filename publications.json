@@ -20,25 +20,6 @@
       }
     },
     {
-      "title": "AIDRIN 2.0: A Framework to Assess Data Readiness for AI",
-      "authors": [
-        "Kaveen Hiniduma",
-        "Dylan Ryan",
-        "Suren Byna",
-        "Jean Luca Bez",
-        "Ravi Madduri"
-      ],
-      "venue": "SSDBM 2025 (Peer-reviewed Poster)",
-      "thumbnail": "static/images/thumbs/aidrin2.png",
-      "selected": 1,
-      "award": "",
-      "links": {
-        "pdf": "https://arxiv.org/pdf/2505.18213",
-        "poster": "https://arxiv.org/pdf/2505.18213",
-        "code": "https://github.com/idtlab/AIDRIN"
-      }
-    },
-    {
       "title": "Data Readiness for AI: A 360-Degree Survey",
       "authors": [
         "Kaveen Hiniduma",

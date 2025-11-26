@@ -14,7 +14,7 @@
       "selected": 1,
       "award": "",
       "links": {
-        "pdf": "https://arxiv.org/pdf/2505.23849",
+        "pdf": "./static/papers/cadre.pdf",
         "code": "https://appfl.ai/en/latest/tutorials/examples_dr_integration.html",
         "presentation": "static/presentations/cadre_slides.pdf"
       }
@@ -31,7 +31,7 @@
       "selected": 1,
       "award": "",
       "links": {
-        "pdf": "https://arxiv.org/pdf/2404.05779"
+        "pdf": "./static/papers/drai_survey.pdf"
       }
     },
     {
@@ -47,7 +47,7 @@
       "selected": 1,
       "award": "",
       "links": {
-        "pdf": "https://arxiv.org/pdf/2406.19256",
+        "pdf": "./static/papers/aidrin_ssdbm24.pdf",
         "presentation": "https://sbyna.github.io/research/papers/2024/202407-SSDBM-AIDRIN.pdf",
         "code": "https://github.com/idtlab/AIDRIN"
       }

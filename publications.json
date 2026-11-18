@@ -1,6 +1,27 @@
 {
   "publications": [
     {
+      "title": "On Preprocessing Heterogeneous HPC Telemetry for Use in Foundation Models and Digital Twins",
+      "authors": [
+        "Wesley Brewer",
+        "Ketan Maheshwari",
+        "Qing Liu",
+        "Sean R. Wilkinson",
+        "Bertrand Cirou",
+        "Gérard Gil",
+        "Jean Luca Bez",
+        "Kaveen Hiniduma",
+        "Suren Byna"
+      ],
+      "venue": "SC26-W 2026",
+      "thumbnail": "static/images/thumbs/aidrin2.png",
+      "selected": 1,
+      "award": "",
+      "links": {
+        "pdf": "https://doi.ieeecomputersociety.org/10.1109/SCW72768.2026.00392"
+      }
+    },
+    {
       "title": "CADRE: Customizable Assurance of Data Readiness in Privacy-Preserving Federated Learning",
       "authors": [
         "Kaveen Hiniduma",
